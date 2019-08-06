@@ -7,15 +7,15 @@
   "didDocument": {
     "publicKey": [
       {
-        "id": "did:btcr:tbd",
+        "id": "did:btcr:xxcl-lzpq-q83a-0d5#key-0",
         "type": "EcdsaSecp256k1VerificationKey2019",
-        "publicKeyPem": ""
+        "publicKeyHex": "03195588392023a8a3af506660439d555971f0447b63616aa3c8272761310cf960"
       }
     ],
     "authentication": [
       {
         "type": "EcdsaSecp256k1SignatureAuthentication2019",
-        "publicKey": "did:btcr:tbd"
+        "publicKey": "did:btcr:xxcl-lzpq-q83a-0d5#key-0"
       }
     ]
   }
