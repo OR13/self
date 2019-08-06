@@ -10,6 +10,17 @@
         "id": "did:btcr:xxcl-lzpq-q83a-0d5#key-0",
         "type": "EcdsaSecp256k1VerificationKey2019",
         "publicKeyHex": "03195588392023a8a3af506660439d555971f0447b63616aa3c8272761310cf960"
+      },
+      {
+        "id": "did:btcr:xxcl-lzpq-q83a-0d5#key-JUvpllMEYUZ2joO59UNui_XYDqxVqiFLLAJ8klWuPBw",
+        "type": "EcdsaSecp256k1VerificationKey2019",
+        "publicKeyJwk": {
+          "crv": "secp256k1",
+          "kid": "JUvpllMEYUZ2joO59UNui_XYDqxVqiFLLAJ8klWuPBw",
+          "kty": "EC",
+          "x": "dWCvM4fTdeM0KmloF57zxtBPXTOythHPMm1HCLrdd3A",
+          "y": "36uMVGM7hnw-N6GnjFcihWE3SkrhMLzzLCdPMXPEXlA"
+        }
       }
     ],
     "authentication": [
