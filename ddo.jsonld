@@ -34,6 +34,7 @@
         "type": "EcdsaSecp256k1SignatureAuthentication2019",
         "publicKey": "did:btcr:xxcl-lzpq-q83a-0d5#key-0"
       }
-    ]
+    ],
+    "assertionMethod": ["did:btcr:xxcl-lzpq-q83a-0d5#key-JUvpllMEYUZ2joO59UNui_XYDqxVqiFLLAJ8klWuPBw"]
   }
 }
