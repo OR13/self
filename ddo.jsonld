@@ -1,6 +1,7 @@
 {
   "@context": [
     "https://www.w3.org/ns/did/v1",
+    "https://identity.foundation/OpenPgpSignature2019/openpgp-signature-2019-v0.0.0.jsonld",
     "https://docs.element-did.com/contexts/sidetree/sidetree-v0.1.jsonld"
   ],
   "didDocument": {
