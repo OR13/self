@@ -3,13 +3,13 @@
     "id": "did:web:did.or13.io",
     "publicKey": [
         {
-            "id": "did:btcr:xxcl-lzpq-q83a-0d5#20a968a458342f6b1a822c5bfddb584bdf141f95",
+            "id": "did:web:did.or13.io#20a968a458342f6b1a822c5bfddb584bdf141f95",
             "type": "GpgVerificationKey2020",
-            "controller": "did:btcr:xxcl-lzpq-q83a-0d5",
+            "controller": "did:web:did.or13.io",
             "publicKeyGpg": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\n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\n=1LBV\n-----END PGP PUBLIC KEY BLOCK-----\n"
         }
     ],
     "assertionMethod": [
-        "did:btcr:xxcl-lzpq-q83a-0d5#20a968a458342f6b1a822c5bfddb584bdf141f95"
+        "did:web:did.or13.io#20a968a458342f6b1a822c5bfddb584bdf141f95"
     ]
 }
