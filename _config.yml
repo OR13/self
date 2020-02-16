@@ -1,3 +1,4 @@
 title: [OR13 DIDs]
 description: [Experimental DIDs]
+include: [".well-known"]
 # google_analytics: [Your Google Analytics tracking ID]
