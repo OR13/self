@@ -1,5 +1,5 @@
 {
-  "@context": "https://raw.githubusercontent.com/OR13/self/master/context.json",
+  "@context": "https://raw.githubusercontent.com/OR13/self/master/context.jsonld",
   "didDocument": {
     "publicKey": [
       {
