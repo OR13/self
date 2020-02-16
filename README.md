@@ -3,3 +3,10 @@
 This is my test btcr did. 
 
 Don't trust anything from it, its private keys are all over the place.
+
+
+# OR13 is did:web:did.or13.io
+
+This is my test web did. 
+
+Don't trust anything from it, its private keys are all over the place.
