@@ -1,9 +1,5 @@
 {
-  "@context": [
-    "https://www.w3.org/ns/did/v1",
-    "https://identity.foundation/OpenPgpSignature2019/openpgp-signature-2019-v0.0.0.jsonld",
-    "https://docs.element-did.com/contexts/sidetree/sidetree-v0.1.jsonld"
-  ],
+  "@context": "https://raw.githubusercontent.com/OR13/self/master/context.json",
   "didDocument": {
     "publicKey": [
       {
@@ -35,6 +31,8 @@
         "publicKey": "did:btcr:xxcl-lzpq-q83a-0d5#key-0"
       }
     ],
-    "assertionMethod": ["did:btcr:xxcl-lzpq-q83a-0d5#key-JUvpllMEYUZ2joO59UNui_XYDqxVqiFLLAJ8klWuPBw"]
+    "assertionMethod": [
+      "did:btcr:xxcl-lzpq-q83a-0d5#key-JUvpllMEYUZ2joO59UNui_XYDqxVqiFLLAJ8klWuPBw"
+    ]
   }
 }

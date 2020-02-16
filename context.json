@@ -1,0 +1,17 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        {
+            "@context": {
+                "GpgVerificationKey2020": "sec:GpgVerificationKey2020",
+                "GpgSignature2020": "sec:GpgSignature2020",
+                "publicKeyGpg": "sec:publicKeyGpg",
+                "publicKeyHex": "sec:publicKeyHex",
+                "publicKeyJwk": {
+                    "@id": "sec:publicKeyJwk",
+                    "@type": "@json"
+                }
+            }
+        }
+    ]
+}
